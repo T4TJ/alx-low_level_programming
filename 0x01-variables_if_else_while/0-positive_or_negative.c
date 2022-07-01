@@ -5,7 +5,7 @@
 /**
 *main -> assign a random number to the variable n each time it is executed and
 *print based on condition
-*return : always 0
+*return : Always 0 (success)
 */
 int main(void)
 {
