@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 /**
  * main - main block
@@ -19,3 +20,4 @@ int main(void)
 
 	putchar('\n');
 	return (0);
+}
