@@ -1,16 +1,13 @@
-#include 'main.h'
-#include <stdio.h>
+
+#include "main.h"
 
 /**
- * two_integers - returns the result
- * Return: void
+ * add - returns sum of parameters
+ * @a: int type
+ * @b: int typr
+ * Return: 0
  */
-int two_integers(void)
+int add(int a, int b)
 {
-
-int i = a;
-int j = b;
-
-_putchar("a + b")
-return (0);
+	return (a + b);
 }
