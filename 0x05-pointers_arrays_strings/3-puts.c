@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*_put -> function that print a spring, followed by a new line
+*_puts -> function that print a spring, followed by a new line
 *@str: a param to _puts function
 *
 */
