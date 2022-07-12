@@ -1,1 +1,1 @@
-This is Pointers, Arrays and Strings readme
+This is the README.md for pointers, arrays and strings
