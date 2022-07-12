@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
 *_put -> function that print a spring, followed by a new line
