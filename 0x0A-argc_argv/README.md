@@ -1,0 +1,1 @@
+This readme is about aguement count and arguement vector (0x0A-argc_argv)
